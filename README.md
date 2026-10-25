@@ -20,7 +20,7 @@ Facts were read on the date given in each section. Prices change; check the sour
 - **Do students need a GitHub account?** Some options keep everything on GitHub, others do not need it at all.
 - **Is there a coding environment?** Some give every student an editor and terminal in the browser; others only collect and grade code written elsewhere (on the student's machine, or in GitHub Codespaces).
 - **Autograding:** which languages, and whether tests can be hidden from students.
-- **LMS:** whether it runs inside an LMS such as Moodle, Canvas, Brightspace or Blackboard (LTI 1.3) and sends grades back to the gradebook.
+- **LMS:** whether it runs inside Moodle, Canvas or Blackboard (LTI 1.3) and sends grades back to the gradebook.
 - **Who runs it:** a vendor, your IT department, or you.
 - **Cost:** per student, per course or per instructor, and what the free tier leaves out.
 
@@ -37,7 +37,7 @@ Facts were read on the date given in each section. Prices change; check the sour
 - **[Codio](https://www.codio.com/pricing)**: the commercial partner GitHub named. Courseware, coding environments in the browser, autograding, and LMS sign-in with grade passback. Free for instructors to build and explore; institutions agree pricing with Codio.
 - **[CodeGrade](https://www.codegrade.com/pricing)**: grading for coding assignments, with a browser editor and a GitHub integration. Free for up to 50 students per course; LMS integration with grade sync is on paid plans.
 - **[Gradescope](https://guides.gradescope.com/hc/en-us/articles/22254107840909)** (Turnitin): programming assignments with a configurable autograder (any language, via a setup script) plus rubric grading. Students can submit by upload or from a GitHub or Bitbucket repository. Many universities already hold an institutional licence; pricing is on request.
-- **[Uppcoder](https://portal.uppcoder.com/github-classroom-alternative)**: a lab in the browser for every student (VS Code or JupyterLab and a terminal), autograded hand-ins (Python, Java, Go, Rust, C/C++) with public and hidden tests, rubrics and teaching assistants, Moodle, Canvas and Brightspace over LTI 1.3 with grades to the gradebook. Students do not need a GitHub account; courses can stay in the school's own GitHub organisation. Priced per educator ([pricing](https://portal.uppcoder.com/pricing)). Example assignments: [Python](https://github.com/websson/python-autograded-assignment), [Java](https://github.com/websson/java-autograded-assignment); [step-by-step guide](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle).
+- **[Uppcoder](https://portal.uppcoder.com/github-classroom-alternative)**: a lab in the browser for every student (VS Code or JupyterLab and a terminal), autograded hand-ins (Python, Java, Go, Rust, C/C++) with public and hidden tests, rubrics and teaching assistants, Moodle, Canvas, Blackboard and Brightspace over LTI 1.3 with grades to the gradebook. Students do not need a GitHub account; courses can stay in the school's own GitHub organisation. Priced per educator ([pricing](https://portal.uppcoder.com/pricing)). Example assignments: [Python](https://github.com/websson/python-autograded-assignment), [Java](https://github.com/websson/java-autograded-assignment); [step-by-step guide](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle).
 
 ## Open source, self-hosted
 
